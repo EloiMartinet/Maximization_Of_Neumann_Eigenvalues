@@ -7,4 +7,6 @@ To display these files, you first need to install MEDIT (https://www.ljll.math.u
 
 In the command-line, run
 
-`medit mu_*`
+`git clone https://github.com/EloiMartinet/Maximization_Of_Neumann_Eigenvalues.git
+cd Maximization_Of_Neumann_Eigenvalues
+medit mu_*`
